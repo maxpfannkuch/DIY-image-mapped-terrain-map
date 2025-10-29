@@ -84,7 +84,7 @@ Alle verwendeten Tools und Datenquellen sind frei zugänglich oder Open Source.
 
 **Dateibeispiele:**
 * `terrain_model.obj`
-* `texture_map.jpg`
+* `Bildschirmfoto 2025-10-29 um 22.18.52.png`
 * `combined_3d_model.obj`
 
 ---
