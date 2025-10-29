@@ -82,10 +82,6 @@ Alle verwendeten Tools und Datenquellen sind frei zugänglich oder Open Source.
 * 3D-Geländemodell mit realer Höhenstruktur
 * Texturierte Karte mit wolkenfreiem Satellitenbild
 
-**Dateibeispiele:**
-* `terrain_model.obj`
-* `Bildschirmfoto 2025-10-29 um 22.18.52.png`
-* `combined_3d_model.obj`
 
 ---
 
